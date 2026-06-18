@@ -33,7 +33,7 @@
 - Вадим **hellsing** Мамуров — технический редактор
 - **DeepSeek-v4** (flash) — машинный перевод с последующей литературной обработкой
 
-
+## Disclaimer
 This is an unofficial Russian translation of "Expert C Programming: Deep C Secrets"
 by Peter van der Linden. All rights to the original work belong to the author
 and publisher. This translation is provided for educational and informational
